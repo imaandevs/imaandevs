@@ -1,4 +1,4 @@
-![Image Alt Text](IMAANDEVS.png)
+![Image Alt Text](IMG_E4044.JPG)
 
 <h2 align="left">Hi, I'm Ayub 👋🏾</h2>
 <h3 align="left">A passionate software developer from London 📍🇬🇧</h3>
