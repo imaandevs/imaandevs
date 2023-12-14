@@ -1,4 +1,4 @@
-![Banner Image](./zoro-banner.png")
+![Image Alt Text](IMAANDEVS.png)
 
 <h2 align="left">Hi, I'm Ayub 👋🏾</h2>
 <h3 align="left">A passionate software developer from London 📍🇬🇧</h3>
